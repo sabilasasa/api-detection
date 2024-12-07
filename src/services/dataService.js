@@ -44,7 +44,7 @@ function validateServiceAccountKey(keyFilePath) {
 function initializeFirestore() {
   try {
     // Gunakan jalur relatif dari root proyek
-    const keyFilePath = path.resolve('./submissionmlgc-jaya-key.json');
+    const keyFilePath = path.resolve('./submissionmlgc-salsabilaap-key.json');
     
     // Validasi berkas kunci
     const keyData = validateServiceAccountKey(keyFilePath);

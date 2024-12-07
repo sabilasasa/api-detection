@@ -7,7 +7,7 @@ import { InputError } from '../exceptions/InputError.js';
 
 (async () => {
   const server = Hapi.server({
-    port: 8000,
+    port: process.env.PORT || 8080,
     host: '0.0.0.0',
     routes: {
       cors: {

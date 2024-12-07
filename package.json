@@ -1,5 +1,5 @@
 {
-  "name": "submissionmlgc-jaya-443913",
+  "name": "submissionmlgc-salsabilaap",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Nur Saifuddin",
+  "author": "Salsabila Auliya Putri",
   "license": "ISC",
   "description": "",
   "dependencies": {
